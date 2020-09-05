@@ -1,4 +1,5 @@
 import random
+import string
 
 def randomStringDigits(stringLength=13) :
     # Generate a random string of letters and digits
